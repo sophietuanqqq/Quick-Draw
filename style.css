@@ -1,0 +1,22 @@
+#score {
+    float:left;
+    margin-left: 30px;
+    font-size: 20px;
+}
+#timer {
+    float:right;
+    margin-right: 30px;
+    font-size: 20px;
+}
+p {
+    font-size: 20px;
+    color: green;
+}
+#show_sketch {
+    float:right;
+    margin-right: 10px;
+}
+canvas {
+border: 5px solid black;
+margin-top: 200px;
+}
